@@ -1,6 +1,7 @@
-/*import React from 'react';
+import React from 'react';
 import { Breadcrumb, BreadcrumbItem, Card, CardBody, CardHeader, Media } from 'reactstrap';
 import { Link } from 'react-router-dom';
+
 
 
 function About(props) {
@@ -73,4 +74,4 @@ function About(props) {
     );
 }
 
-export default About; */
+export default About; 
